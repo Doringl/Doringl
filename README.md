@@ -18,13 +18,15 @@ Here are some ideas to get you started:
  <img align="right" alt="GIF" src="https://github.com/Doringl/Doringl/blob/main/coder.gif?raw=true" width="500" height="320" />
 
 ## I'm a Developer!!
-
+- 👨‍💻 Becoming Typescript master...
 - 🔭 I’m currently working on my reddit-clone project,
 - 🌱 I’m currently learning Typescript and GraphQL,
 - 👯 I’m looking to collaborate on open source,
 - 💬 Ask me about ... Anything,
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I believe, i can be a Typescript master. 😎
 
+<br />
 <br />
 <br />
 
