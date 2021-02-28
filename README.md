@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Typescript and GraphQL,
 - 👯 I’m looking to collaborate on open source,
 - 💬 Ask me about ... Anything,
+- 📫 How to reach me donmezcansefa@gmail.com,
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe, i can be a Typescript master. 😎
 
