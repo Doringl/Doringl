@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doringl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=doringl&style=flat-square)
+![](https://komarev.com/ghpvc/?username=doringl&color=3178C6&style=flat)
