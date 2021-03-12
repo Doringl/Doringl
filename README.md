@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... [**wikipetty**](https://github.com/Doringl/wikipetty "wikipetty") project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm a Developer!!
 - 👨‍💻 Becoming Typescript master...
-- 🔭 I’m currently working on my [**wikipetty**](https://github.com/Doringl/wikipetty "wikipetty") project,
+- 🔭 I’m currently working on my personal website,
 - 🌱 I’m currently learning Typescript and GraphQL,
 - 👯 I’m looking to collaborate on open source,
 - 💬 Ask me about ... Anything,
