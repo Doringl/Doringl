@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 👨‍💻 Becoming Typescript master...
 - 🔭 I’m currently working on my personal website,
 - 🌱 I’m currently learning Typescript and GraphQL,
-- 👯 I’m looking to collaborate on open source,
 - 💬 Ask me about ... Anything,
 - 📫 How to reach me donmezcansefa@gmail.com,
 - 😄 Pronouns: He/Him
